@@ -6,3 +6,8 @@ color:red;
 }
 ul li{
 list-style:none;}
+.projetos {
+    display: inline-block;
+    width: calc(30% - 40px);
+    padding: 20px;
+}
